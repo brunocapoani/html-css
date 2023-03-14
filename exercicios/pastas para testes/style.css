@@ -1,0 +1,120 @@
+.caixa {
+  border: solid 1px rgb(243, 234, 105);
+  width: 15cm;
+  height: 20cm;
+  margin: auto;
+  background-color: rgb(243, 234, 105);
+  
+}
+
+body{
+  background-color: rgba(0, 0, 0, 0.575);
+}
+
+header{
+  border: solid 1px rgb(243, 234, 105);
+  height: 4cm;
+
+  
+}
+
+ header img {
+  height: 140px;
+  width: 150px;
+  padding: 10px 0px ;
+}
+
+#pdm{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: -130px;
+}
+
+#nome{
+  text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+margin-left: 140px;
+line-height: 10px;
+  
+}
+
+#objetivo{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 135px;
+  line-height: 10px;
+    
+}
+#data{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: -115px;
+    
+}
+
+main{
+
+  border: solid black 1.2px ;
+ height: 15.3cm;
+ margin-top: 20px;
+ margin: 5px 20px;
+ 
+}
+
+div.bloco{
+  border: solid 1px rgb(0, 0, 0);
+  height: 5.04cm;
+}
+
+.menu{
+  border: solid 1px rgb(17, 17, 17) ;
+  height: 1cm;
+  width: 13.8cm;
+  margin-top: -3px;
+  margin-left: -2px;
+  
+}
+
+
+#l{
+  border: solid rgba(0, 0, 0, 0.842) 1px;
+  height: 5.04cm;
+  width: 2cm;
+  
+  
+  
+}
+
+ .bloco p {
+  color: black;
+  font-weight: bolder;
+  transform: rotate(270deg);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  margin-left: -50px;
+  
+}
+
+#menukk{
+  border: solid 1px rgba(173, 32, 32, 0.788) ;
+  width: 13.8cm;
+  height: 2cm;
+  
+
+
+}
+
+td{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  
+}
+#exercicio{
+ 
+   
+}
